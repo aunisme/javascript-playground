@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+body{
+    background: #eee;
+  }
+  form{
+    max-width: 350px;
+    margin: 40px auto;
+    background: white;
+    padding: 10px;
+  }
+  input{
+    display: block;
+    margin: 10px auto;
+    padding: 4px;
+  }
+
+.signup-form {
+    margin-top: 10em;
+}
